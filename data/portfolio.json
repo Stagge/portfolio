@@ -1,0 +1,124 @@
+{
+  "personal": {
+    "full_name": "Jonatan Stagge",
+    "title": "Junior Software Developer",
+    "about_me": "Computer Science student with nearly 2 years of professional\r\nfullstack development experience seeking a Master's thesis\r\nposition in software technology or machine learning applications.",
+    "location": "Stockholm, Sweden",
+    "avatarUrl": "/portfolio/user-files/avatar-1759246811977.jpg",
+    "cvUrl": "/portfolio/user-files/resume-1759246442432.pdf",
+    "custom_links": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "url": "jonatan.stagge@gmail.com"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/Stagge"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "www.linkedin.com/in/jonatan-stagge-9a205b187"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "minimalProfile",
+    "skills": "skillsGrid",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": [
+    "personal",
+    "experience",
+    "education",
+    "projects",
+    "skills",
+    "133ff5f6-8361-429f-b133-1cd252c3444a"
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "logo": "/portfolio/icons/java/java-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "/portfolio/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/portfolio/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/portfolio/icons/git/git-original.svg"
+    },
+    {
+      "name": "GitHub",
+      "logo": "/portfolio/icons/github/github-original.svg"
+    },
+    {
+      "name": "Spring",
+      "logo": "/portfolio/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Python",
+      "logo": "/portfolio/icons/python/python-original.svg"
+    },
+    {
+      "name": "Vue.js",
+      "logo": "/portfolio/icons/vuejs/vuejs-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/portfolio/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/portfolio/icons/react/react-original.svg"
+    },
+    {
+      "name": "C++",
+      "logo": "/portfolio/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/portfolio/icons/docker/docker-original.svg"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "The Way Technologies",
+      "position": "Software Developer",
+      "location": "Stockholm, Sweden",
+      "start_date": "Jan 2024",
+      "end_date": "present",
+      "description": "- Part-time consulting as a fullstack developer.\r\n- Delivered end-to-end web applications using modern technologies including React, Vue.js, Node.js/Express, and Java Spring Boot across e-commerce, document management, and financial services domains.\r\n- Built scalable data processing systems and led technical modernization efforts including framework upgrades, third-party integrations, and custom feature development to enhance user experience and business functionality.",
+      "logoUrl": "/portfolio/user-files/work-experience/1e3d1dc4-98bb-4fb1-bf33-3b4682cb427b-logo-1759247335769.png",
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "university": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "start_year": "2021",
+      "end_year": "",
+      "description": "Currently on my last year of my master specializing in Software Technology.",
+      "logoUrl": "/portfolio/user-files/education/19e90ce0-a0cd-4e27-9e08-9c33f4ae6e23-logo-1759247587493.png",
+      "custom_links": []
+    }
+  ],
+  "customSections": [
+    {
+      "id": "133ff5f6-8361-429f-b133-1cd252c3444a",
+      "section_name": "New Section",
+      "layout_type": "card",
+      "items": []
+    }
+  ]
+}
