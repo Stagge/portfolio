@@ -1,6 +1,6 @@
 # Jonatan Stagge's Portfolio
 
-Junior Software Developer portfolio built with Next.js and deployed on GitHub Pages.
+Portfolio built with Next.js and deployed on GitHub Pages.
 
 ## 🔧 Development
 
